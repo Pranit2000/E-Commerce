@@ -99,7 +99,7 @@ class _HomepageState extends State<Homepage> {
             size: 30,
             color: Colors.white,
           ),
-          Icon(
+          Icon( 
             CupertinoIcons.cart_fill,
             size: 30,
             color: Colors.white,
